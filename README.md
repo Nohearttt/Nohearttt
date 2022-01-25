@@ -5,7 +5,7 @@ ____
 
 I am 19 years old. 
 
-:mortar_board: I study at the [Siberian State Industrial University](https://www.sibsiu.ru/) I am a database administrator, also fond of developing games on Unity.
+:mortar_board: I study at the [Siberian State Industrial University](https://www.sibsiu.ru/). I am a database administrator, also fond of developing games on Unity.
 
 **Study programming languages:**
 
