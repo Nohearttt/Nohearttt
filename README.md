@@ -1,6 +1,4 @@
-# Hi there 👋
-____
-
+# Hi there 👋 ____
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
