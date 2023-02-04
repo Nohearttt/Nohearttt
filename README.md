@@ -10,15 +10,10 @@ I am 19 years old.
 **Study programming languages:**
 
 - C# :white_check_mark:
-- Unity :white_check_mark:
-- MySQL :white_check_mark:
-- HTML :black_square_button:
-- CSS :black_square_button:
-- JavaScript :black_square_button:
-
+- Angular js :white_check_mark:
 ## Tasks:
-- *Learn FrontEnd*
-- *Write a website*
+- *Learn ASP.NET*
+- React
 
 ## My social:
 
