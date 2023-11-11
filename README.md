@@ -3,17 +3,16 @@ ____
 
 ## About me:
 
-I am 20 years old. 
+I am 21 years old. 
+I am a Full Stack programmer
 
-:mortar_board: I study at the [Siberian State Industrial University](https://www.sibsiu.ru/). I am a database administrator, also fond of developing games on Unity.
-
-**Study programming languages:**
+**Languages I work with:**
 
 - C# :white_check_mark:
-- Angular js :white_check_mark:
-## Tasks:
-- *Learn ASP.NET*
-- React
+- JS :white_check_mark:
+- SQL :white_check_mark:
+- HTML :white_check_mark:
+- CSS :white_check_mark:
 
 ## My social:
 
